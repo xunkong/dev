@@ -10,3 +10,6 @@
 [submodule "Tool"]
   path = Tool
   url = https://github.com/xunkong/tool.git
+[submodule "YaeAchievement"]
+  path = YaeAchievement
+  url = https://github.com/xunkong/YaeAchievement.git
