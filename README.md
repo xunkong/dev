@@ -20,6 +20,8 @@
 - 打开项目 `Xunkong.Desktop.Package` 内的 `Package.appxmanifest` 文件，转到打包栏，修改包名（不修改则会在调试时卸载已安装的侧载版）
 - 生成项目
 
+该项目勾选了 **不启动，但是在启动时调试代码**，点击调试后需要手动打开程序
+
 ## 发布
 
 - 打开项目 `Xunkong.Desktop.Package` 内的 `Package.appxmanifest` 文件，转到打包栏
